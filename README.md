@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+- 🌱 I’m currently learning ... Full Stack Web Development
+
 <!--
 **g3rar2/g3rar2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
