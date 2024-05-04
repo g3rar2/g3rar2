@@ -2,7 +2,7 @@
     <img width="1500" src="https://github.com/g3rar2/g3rar2/blob/main/GiG3.png">
 </p>
 <h1 align="center">Hi 👋, I'm Gerardo Perez</h1>
-<h3 align="center">A Civil Engineer | Scientific Research Enthusiast | Full stack development student and </h3>
+<h3 align="center">A Civil Engineer | Scientific Research Enthusiast | Full stack development student </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=g3rar2&label=Profile%20views&color=0e75b6&style=flat" alt="g3rar2" /> </p>
 
