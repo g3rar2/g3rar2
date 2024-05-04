@@ -1,3 +1,6 @@
+<p align="center">
+    <img width="1500" src="https://github.com/g3rar2/g3rar2/blob/main/GiG3.png">
+</p>
 <h1 align="center">Hi 👋, I'm Gerardo Perez</h1>
 <h3 align="center">A Civil Engineer | Scientific Research Enthusiast | Full stack development student and </h3>
 
@@ -5,7 +8,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
